@@ -6,7 +6,7 @@ const data = [
     },
     {
       "id": "2",
-      "name": "Wilburn Weber",
+      "name": "Wilburn WeberS",
       "email": "Bennett_Kreiger11@yahoo.com"
     },
     {

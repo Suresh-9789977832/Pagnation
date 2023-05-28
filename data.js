@@ -36,7 +36,7 @@ const data = [
     },
     {
       "id": "8",
-      "name": "Alfredo Conn",
+      "name": "Alfredo Connn",
       "email": "Clarabelle34@hotmail.com"
     },
     {

@@ -7,7 +7,7 @@ main_cont.classList.add("container")
 
 let heading = document.createElement("h1")
 heading.setAttribute('id','title')
-heading.innerHTML = "PAGNATION"
+heading.innerHTML = "Pagnation"
 
 let table = document.createElement("table")
 table.classList.add("tab")
